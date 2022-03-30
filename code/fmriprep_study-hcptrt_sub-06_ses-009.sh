@@ -6,6 +6,7 @@
 #SBATCH --time=8:00:00
 #SBATCH --cpus-per-task=12
 #SBATCH --mem-per-cpu=4096M
+#SBATCH --tmp=100G
 #SBATCH --mail-type=BEGIN
 #SBATCH --mail-type=END
 #SBATCH --mail-type=FAIL
