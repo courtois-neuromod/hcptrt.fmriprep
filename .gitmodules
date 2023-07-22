@@ -1,10 +1,10 @@
 [submodule "sourcedata/templateflow"]
 	path = sourcedata/templateflow
-	url = git@github.com:templateflow/templateflow.git
+	url = http://datasets.datalad.org/templateflow/.git
 	datalad-id = c79c47b6-d0fb-11e8-aa11-64006a8a730f
 [submodule "containers"]
 	path = containers
-	url = git@github.com:ReproNim/containers.git
+	url = git@github.com:courtois-neuromod/containers.git
 	datalad-id = b02e63c2-62c1-11e9-82b0-52540040489c
 [submodule "sourcedata/smriprep"]
 	path = sourcedata/smriprep
